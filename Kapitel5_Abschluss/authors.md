@@ -55,4 +55,30 @@
 
 ## sonstige beteiligte Personen
 
+### Lamia Islam <a href="https://orcid.org/0009-0001-1879-9880" target="_blank">![](/assets/ORCID-iD_icon-16x16.png)</a>
+<table style="margin-left: 0">
+<tr>
+<td><b>Rolle in QUADRIGA:</b></td>
+<td>Technische Unterstützung (WHK)</td>
+</tr>
+<tr>
+<td><b>Einrichtung:</b></td>
+<td>Universität Potsdam</td>
+</tr>
+<tr>
+<td><b>GitHub:</b></td>
+<td><a href="https://github.com/lam1aa" class="external-link" target="_blank">lam1aa</a></td>
+</tr>
+</table>
 
+### Ralf-Gabriel Porebski<a href="https://orcid.org/0009-0001-1879-9880" target="_blank">![](/assets/ORCID-iD_icon-16x16.png)</a>
+<table style="margin-left: 0">
+<tr>
+<td><b>Rolle in QUADRIGA:</b></td>
+<td>Technische Unterstützung (WHK)</td>
+</tr>
+<tr>
+<td><b>Einrichtung:</b></td>
+<td>Fraunhofer-Institut für Offene Kommunikationssysteme FOKUS</td>
+</tr>
+</table>

@@ -42,8 +42,6 @@ Beim Durchgehen dieser OER können Sie die unten genannte Lernziele erreichen. E
 ```
 <!-- END: Datenmanagement -->
 
- <span style="color:red">*bei Management von FD fehlt noch die Kompetenz 3.2 Erschließung (Metadaten, fachspezifische Standards)*</span>
-
 <!-- START: Publikation -->
 ```{admonition} [Lernziel: Publikation von Forschungsdaten](publikation:einleitung)
 :class: lernziele
@@ -54,8 +52,8 @@ Beim Durchgehen dieser OER können Sie die unten genannte Lernziele erreichen. E
 2. Lernende können den Begriff Datenpublikation erläutern. (LZ-ID 04_003_0842)
 <!-- competency: 5.2 Datenpublikation | bloom: 2 Verstehen -->
 <!-- learning-goal: Kompetenz Kommunikation -->
-1. *noch zu formulieren*
-<!-- competency: 5.3 Kommunikation | bloom: ... -->
+3. Lernende können Beispiele der Wissenschaftskommunikation benennen. 
+<!-- competency: 5.3 Kommunikation | bloom: 1 Erinnern -->
 ```
 <!-- END: Publikation -->
 

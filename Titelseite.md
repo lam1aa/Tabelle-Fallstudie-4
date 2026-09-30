@@ -35,8 +35,6 @@ Die Lerneinheit orientiert sich an den Learnings, die sich durch die Begleitung 
 
 Als Grundlage dient das <a href="https://zenodo.org/records/14747822" class="external-link" target="_blank">QUADRIGA Datenkompetenzframework</a>, dessen Phasen den wissenschaftlichen Forschungsprozess abbilden. Auch der Prozess des nachträglichen Veröffentlichens von Forschungsdaten lässt sich mit diesem Modell fassen und organisieren, wobei dann nicht auf alle im Modell dargstellten Kompetenzen eingegangen werden muss (s. Kap. 1.3 [Nachträgliches Publizieren](nachpub:einleitung)).  
 
-<p style="color: red;">*einzufügendes Bild in Bearbeitung*</p>
-
 ```{figure} /assets/collage_intro.png
 ---
 align: center

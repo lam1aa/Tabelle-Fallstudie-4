@@ -12,13 +12,7 @@ Die Kompetenz 5.1 Aufbewahrung des QUADRIGA Datenkompetenzframeworks.
 ```
 *Quellenangabe: Ausschnitt aus dem Modell "QUADRIGA Datenkompetenzframework" von Petras et al. unter der Lizenz <a href="https://creativecommons.org/licenses/by/4.0/legalcode" class="external-link" target="_blank">CC BY 4.0</a> via <a href="https://zenodo.org/records/19470557" class="external-link" target="_blank">Zenodo</a>.*
 
-<p style="color: red;">Um nicht alles an die einzelnen Stellen zu schreiben, schreibe ich es hier hin: Sobald die vorherigen Kapitel mehr Struktur haben werde ich alle Platzhalter entfernen und dieses Kapitel glatt ziehen</p>
-
-```{admonition} Story
-:class: story
-[Storyline entsprechend vorheriger Kapitel fortsetzen. Vermutlich sowas wie: Nachdem Protagonist XY a,b und c gemacht hat, fragt er sich nun wo er die von ihm erhobenen Daten am besten aufbewahrt. Dabei ist ihm besonders wichtig, dass die Daten **sicher** aufbewahrt werden. Des Weiteren (erinnert er sich an die Schwierigkeiten/Zeitaufwand aus Kap XY, und daher) möchte er seine erarbeiteten Daten/Erkenntnisse/o.Ä. möglichst einfach und langfristig anderen Menschen zur Verfügung stellen, die einen Bezug zu seiner Forschung haben (Architektur,Städtebau, Geowissenschaften??)]
-```
-Nachdem Sie [X,Y und Z] gemacht haben, haben fragen Sie sich nun wo und wie Sie Ihre Daten aufbewahren können. Hierfür werden üblicherweise sogenannte <i>Repositorien</i> verwendet. 
+Nachdem die Daten geordnet, dokumentiert und beschrieben wurden, sollen diese nun veröffentlicht werden. Dies geschieht üblicherweise in sogenannten <i>Repositorien</i>. 
 In diesem Unterkapitel erfahren Sie:
 <ul>
   <li>Was ein Repositorium genau ist;</li>
