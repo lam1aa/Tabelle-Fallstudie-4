@@ -7,7 +7,7 @@ In diesem Abschnitt erfahren Sie, welche Vorkenntnisse Sie zum Absolvieren des L
 
 Für dieses Lehrbuch sind keine Vorkenntnisse vonnöten. Hilfreich ist allerdings ein Grundverständnis von Datenmanagement sowie eine positive Haltung zum Thema Open Science und Datennachnutzung.
 
-Beim Durchgehen dieses Jupyter Books werden Sie folgend genannte Lernziele erreichen. Einige Lernziele decken sich direkt mit der <a href="https://zenodo.org/records/15025246" class="external-link" target="_blank">Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM)</a> von Petersen et al. (Version 3, 2025). Diese sind durch ihre dort vergebene ID (LZ-ID) kenntlich gemacht.
+Beim Durchgehen dieser OER können Sie die unten genannte Lernziele erreichen. Einige Lernziele decken sich direkt mit der <a href="https://zenodo.org/records/15025246" class="external-link" target="_blank">Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM)</a> von Petersen et al. (Version 3, 2025). Diese sind durch ihre dort vergebene ID (LZ-ID) kenntlich gemacht.
 
 ## Lernziele
 
@@ -23,7 +23,7 @@ Beim Durchgehen dieses Jupyter Books werden Sie folgend genannte Lernziele errei
 <!-- competency: 1.2 Qualitätssicherung | bloom: 5 Bewerten -->
 <!-- learning-goal: Prüfung von rechtlichen Vorgaben zur Datenveröffentlichung -->
 4. Lernende können vorbereitende Maßnahmen für eine rechtssichere Publikation umsetzen. (LZM 04_003_0851)
-<!-- competency: 1.3 Ethik und Recht | bloom: ... -->
+<!-- competency: 1.3 Ethik und Recht | bloom: 3 Anwenden -->
 ```
 <!-- END: Einarbeiten -->
 

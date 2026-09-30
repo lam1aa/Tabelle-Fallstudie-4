@@ -1,25 +1,9 @@
 (nachpub:einleitung)=
 # Nachträgliches Publizieren - Einleitung
 
-````{margin}
-```{admonition} Fragen oder Feedback
-:class: frage-feedback
+In dieser Open Educational Resource (OER) wird die nachträgliche Publikation von Forschungsdaten in den Blick genommen. Das zielt ab auf den häufig vorzufindenden Fall, dass die Ergebnisse eines Forschungsprojekts zwar in einer abschließenden Publikation zusammengefasst wurden, die Forschungsdaten der Community aber nicht zur Verfügung stehen. Aus Gründen der Reproduzierbarkeit, der FAIRness sowie der Guten wissenschaftlichen Praxis (insbesondere die Leitlinien 13 und 17) {cite}`deutsche_forschungsgemeinschaft_2025` sollten diese ebenfalls veröffentlicht werden.  
 
-<a href="https://github.com/quadriga-dk/Tabelle-Fallstudie-4/issues/new?assignees=&labels=question&projects=&template=frage.yml" class="external-link" target="_blank">
-    Stellen Sie eine Frage
-</a> <br>
-<a href="https://github.com/quadriga-dk/Tabelle-Fallstudie-4/issues/new?assignees=&labels=feedback&projects=&template=feedback.yml" class="external-link" target="_blank">
-    Geben Sie uns Feedback
-</a>
-
-Mit Ihren Rückmeldungen können wir unser interaktives Lehrbuch gezielt an Ihre Bedürfnisse anpassen.
-
-```
-````
-
-In dieser Open Educational Resource (OER) wird die nachträgliche Publikation von Forschungsdaten in den Blick genommen. Das zielt ab auf den häufig vorzufindenden Fall, dass die Ergebnisse eines Forschungsprojekts zwar in einer abschließenden Publikation zusammengefasst wurden, die Forschungsdaten der Community aber nicht zur Verfügung stehen. Aus Gründen der Reproduzierbarkeit, der FAIRness sowie der Guten wissenschaftlichen Praxis (Leitlinien 13 und 17) {cite}`deutsche_forschungsgemeinschaft_2025` sollten diese ebenfalls veröffentlicht werden.  
-
-Eine einheitliche Definition für Forschungsdaten gibt es nicht, da die Methodiken und Ergebnisse stark nach wissenschaftlicher Disziplin variieren können. Grundsätzlich können alle Daten, die im Rahmen eines Forschungsprozesses entstehen oder ihr Ergebnis sind, als Forschungsdaten bezeichnet werden {cite}`Kindling_Schirmbacher_2013`.
+Eine einheitliche Definition für Forschungsdaten gibt es nicht, da die Methodiken und Ergebnisse stark nach wissenschaftlicher Disziplin variieren können. Grundsätzlich können aber alle Daten, die im Rahmen eines Forschungsprozesses entstehen oder ihr Ergebnis sind, als Forschungsdaten bezeichnet werden {cite}`Kindling_Schirmbacher_2013`.
 
 ## Vorteile einer Datenpublikation
 
