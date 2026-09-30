@@ -149,10 +149,10 @@ chapters:
     competency: 5.2 Datenpublikation
     data-flow: 5 Publikation und Nachnutzung
     blooms-category: 2 Verstehen
-  - learning-objective: '*noch zu formulieren*'
+  - learning-objective: Lernende können Beispiele der Wissenschaftskommunikation benennen.
     competency: 5.3 Kommunikation
     data-flow: 5 Publikation und Nachnutzung
-    blooms-category: '...'
+    blooms-category: 1 Erinnern
 date-issued: 2025-12-19
 date-modified: 2025-12-19
 version: 0.0.1

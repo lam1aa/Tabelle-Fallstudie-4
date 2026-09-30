@@ -273,9 +273,9 @@
         },
         {
           "@type": "AlignmentObject",
-          "targetName": "*noch zu formulieren*",
+          "targetName": "Lernende können Beispiele der Wissenschaftskommunikation benennen.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 5.3 Kommunikation | Bloom's: ... | Data Flow: 5 Publikation und Nachnutzung"
+          "targetDescription": "Competency: 5.3 Kommunikation | Bloom's: 1 Erinnern | Data Flow: 5 Publikation und Nachnutzung"
         }
       ]
     }
