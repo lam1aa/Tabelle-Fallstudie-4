@@ -1,4 +1,4 @@
-# QUADRIGA OERs: erstellen und gestalten mit Jupyter Book – QUADRIGA Open Educational Resources: Template
+# Forschungsdatenpublikation: Ein Best-Practice-Beispiel zur retrospektiven Publikation von Daten für die Nachnutzung
 
 [![DOI](https://zenodo.org/badge/796588109.svg)](https://doi.org/10.5281/zenodo.14970672)
 
